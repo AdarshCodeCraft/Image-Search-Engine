@@ -7,3 +7,4 @@
 <p>4. Lazy loading of images to improve performance.</p>
 <p>5. Error handling for invalid search queries.</p>
 <p>6. Simple and clean UI for ease of use.</p>
+<img src="Screenshot 2024-10-13 121306.png" alt="screenshot">
